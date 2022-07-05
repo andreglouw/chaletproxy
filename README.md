@@ -1,2 +1,2 @@
-# chaletproxy
+# Chalet Proxy
 Proxy for communication
